@@ -1,0 +1,29 @@
+.conteudo {
+    margin: 50px auto 0px auto;
+    width: 80%;
+    height: 100%;
+}
+#box-subtitle {
+    margin-bottom: 40px;
+}
+#lucasdev {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+#card-tag {
+    background-color:hsl(0, 0%, 21%);
+    color: white;
+    padding: 5px 8px 5px 8px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+#empresa {
+    background-color:hsl(0, 0%, 21%);
+    color: white;
+    padding: 5px 12px 5px 12px;
+    border-radius: 5px;
+    font-size: 12px;
+}
+.title {
+    font-weight: bold;
+}
